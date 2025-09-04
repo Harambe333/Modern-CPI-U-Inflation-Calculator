@@ -1,0 +1,5 @@
+{
+  "name": "Inflation Comparator",
+  "description": "A modern CPI-U inflation calculator to compare the value of money across different years, built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
